@@ -8,7 +8,7 @@ I'm currently working for a Switzerland based cybersecurity company named PRODAF
     <img src="https://img.shields.io/twitter/follow/ilkayaydogduu?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://github.com/ilkayaydogduu.gpg">
-    <img src="https://img.shields.io/badge/pgp-0xEB0EBCA80605D854?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/pgp-0xEB0EBCA80605D854-313131?style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/ilkayaydogduu">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="GitHub badge" />
